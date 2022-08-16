@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello Microverse
-> Using Lint for Html
+> Using Lint for Html and CSS
 
 
 ## Built With
@@ -15,13 +15,13 @@
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+<!-- ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.** -->
 
 
-To get a local copy up and running follow these simple example steps.
+<!-- To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Run tests
 
-### Deployment
+### Deployment -->
 
 
 
@@ -45,19 +45,19 @@ To get a local copy up and running follow these simple example steps.
 <!-- - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
-👤 **Author2**
+<!-- 👤 **Author2** -->
 
 <!-- - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../../issues/). -->
 
-## Show your support
+<!-- ## Show your support
 
 Give a ⭐️ if you like this project!
 
@@ -65,7 +65,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- etc -->
 
 ## 📝 License
 
